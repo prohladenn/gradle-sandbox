@@ -1,4 +1,4 @@
-rootProject.name = "super-service"
+rootProject.name = "super-library"
 
 dependencyResolutionManagement {
     versionCatalogs {
